@@ -1,1 +1,32 @@
-
+===================================================================
+GIT/Github: 
+===================================================================
+Overview of GIT 
+what is VCS ? Types of VCS
+Git Architecture
+Installation of Git
+Github Account creation
+==================================================================
+Basic commands of git:
+ * git init, git config, git status, git log, git add, git commit, git show
+==================================================================
+Advanced commands of git :
+  * git clone, git push, git pull
+Fork mechanism remote repos
+Remotes concept for adding remote alias
+=========================================================================
+Branch & Branching Strategies
+Stash 
+Tags
+================================================
+revert
+reset ( soft, hard, mixed)
+Merge & Rebase
+cherry-pick
+=================================================
+Additonal Commands:
+ * fetch, checkout, clean, rm
+Pull Request - Creating pull request, review mechanism
+Github Administration
+Git Scenario Questions
+=====================================================================================
